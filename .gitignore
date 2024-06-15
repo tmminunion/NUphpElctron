@@ -1,0 +1,47 @@
+# Ignore everything in the vendor directory
+vendor/
+
+# Ignore all compiled files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore build files
+build/
+dist/
+node_modules
+# Ignore cache files
+cache/
+
+# Ignore session files
+session/
+
+# Ignore temporary files
+tmp/
+
+# Ignore database files
+db/
+
+# Ignore logs
+logs/
+
+# Ignore configuration files
+config/
+
+# Ignore local development files
+.env.local
+.env.development
+
+# Ignore test files
+tests/
+
+# Ignore documentation files
+docs/
+
+# Ignore deployment files
+deploy/

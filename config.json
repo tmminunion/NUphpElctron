@@ -1,0 +1,20 @@
+{
+    "name": "NUphp",
+    "appId": "com.nufat.app",
+    "productName": "nufat.id",
+    "description": "APlikasi NuPHP",
+    "version": "1.0.0",
+    "port": 8005,
+    "dev_console": false,
+    "entry_point": "app/nuphp",
+    "ignore": {
+        "description": "Files and folders to ignore when packaging the app to the builder",
+        "list": [
+            "builder",
+            "console",
+            ".gitignore",
+            ".git",
+            ".github"
+        ]
+    }
+}
